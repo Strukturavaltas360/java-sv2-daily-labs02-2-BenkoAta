@@ -1,1 +1,1 @@
-# java-sv2-daily-labs02
+2. heti konzultációkon kiadott gyakorlati feladataim
